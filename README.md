@@ -26,13 +26,13 @@ Users should be able to:
 
 ![](screenshot.png)
 
-![](responsive.png)
+![](responsives.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [LeFamine Solution](https://www.frontendmentor.io/solutions/htmlcss-vanilla-CtiPUgxOg)
+- Live Site URL: [LeFamine LiveSite](https://3-column-frontend-mentor.vercel.app/)
 
 ## My process
 
